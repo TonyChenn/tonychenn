@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/tonychenn/count.svg)
+### Profile Views
 
-### 🏆 Github Stats:
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=tonychenn&show_icons=true&hide_border=true&theme=buefy" ></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonychenn&theme=buefy&show_icons=true"/></td>
-  </tr>
-</table>
-<img alt="TonyChenn's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonychenn&hide=htmls&theme=buefy&layout=compact&hide_border=true"/>
+![Profile views](https://komarev.com/ghpvc/?username=TonyChenn&style=flat-square&color=0e75b6)
 
+### 🏆 GitHub Stats
 
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TonyChenn&show_icons=true&hide_border=true&theme=buefy" alt="TonyChenn's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyChenn&layout=compact&hide=html&hide_border=true&theme=buefy" alt="TonyChenn's top languages" />
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyChenn&theme=buefy" alt="TonyChenn's profile summary" />
 
 
 <!--
