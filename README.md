@@ -7,11 +7,11 @@
 ### 🏆 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TonyChenn&show_icons=true&hide_border=true&theme=buefy" alt="TonyChenn's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyChenn&layout=compact&hide=html&hide_border=true&theme=buefy" alt="TonyChenn's top languages" />
+  <img src="profile-summary-card-output/vue/3-stats.svg" alt="TonyChenn's GitHub stats" />
+  <img src="profile-summary-card-output/vue/1-repos-per-language.svg" alt="TonyChenn's top languages" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyChenn&theme=buefy" alt="TonyChenn's profile summary" />
+<img src="profile-summary-card-output/vue/0-profile-details.svg" alt="TonyChenn's profile summary" />
 
 
 <!--
